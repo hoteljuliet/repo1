@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 18 10:19:33 EST 2019
+syslog4j-0.9.60.jar>sonatype-nexus-releases=
+syslog4j-0.9.60.pom>sonatype-nexus-releases=

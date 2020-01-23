@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:35:49 EST 2020
+scala-xml_2.11-1.0.4.pom>central=
+scala-xml_2.11-1.0.4.jar>sonatype-nexus-releases=
+scala-xml_2.11-1.0.4.pom>sonatype-nexus-releases=
+scala-xml_2.11-1.0.4.jar>central=

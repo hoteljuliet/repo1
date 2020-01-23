@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 11:31:25 EST 2020
+org.apache.felix.utils-1.6.0.jar>central=
+org.apache.felix.utils-1.6.0.pom>central=

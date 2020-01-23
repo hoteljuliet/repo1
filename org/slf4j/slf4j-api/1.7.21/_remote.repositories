@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 18 10:21:09 EST 2019
+slf4j-api-1.7.21.pom>sonatype-nexus-releases=
+slf4j-api-1.7.21.jar>sonatype-nexus-releases=

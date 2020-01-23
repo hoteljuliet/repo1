@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 11:43:10 EST 2020
+commons-codec-1.10.pom>sonatype-nexus-releases=
+commons-codec-1.10.jar>central=
+commons-codec-1.10.jar>sonatype-nexus-releases=
+commons-codec-1.10.pom>central=

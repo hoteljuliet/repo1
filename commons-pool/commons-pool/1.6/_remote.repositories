@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 12:39:43 EST 2020
+commons-pool-1.6.pom>central=
+commons-pool-1.6.jar>sonatype-nexus-releases=
+commons-pool-1.6.pom>sonatype-nexus-releases=
+commons-pool-1.6.jar>central=

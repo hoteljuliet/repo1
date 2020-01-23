@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 11:31:32 EST 2020
+guava-parent-26.0-jre.pom>sonatype-nexus-releases=
+guava-parent-26.0-jre.pom>central=

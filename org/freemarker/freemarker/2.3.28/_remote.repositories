@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:26:52 EST 2020
+freemarker-2.3.28.jar>sonatype-nexus-releases=
+freemarker-2.3.28.jar>central=
+freemarker-2.3.28.pom>central=
+freemarker-2.3.28.pom>sonatype-nexus-releases=

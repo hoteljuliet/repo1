@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 12:37:34 EST 2020
+jcip-annotations-1.0.jar>central=
+jcip-annotations-1.0.pom>central=
+jcip-annotations-1.0.pom>sonatype-nexus-releases=
+jcip-annotations-1.0.jar>sonatype-nexus-releases=

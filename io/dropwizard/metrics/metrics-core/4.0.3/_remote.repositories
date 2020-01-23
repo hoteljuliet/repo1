@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 18 10:19:32 EST 2019
+metrics-core-4.0.3.pom>sonatype-nexus-releases=
+metrics-core-4.0.3.jar>sonatype-nexus-releases=

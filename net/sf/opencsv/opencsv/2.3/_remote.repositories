@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:37:25 EST 2020
+opencsv-2.3.pom>central=
+opencsv-2.3.jar>sonatype-nexus-releases=
+opencsv-2.3.pom>sonatype-nexus-releases=

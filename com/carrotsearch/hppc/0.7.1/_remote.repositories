@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:36:48 EST 2020
+hppc-0.7.1.jar>sonatype-nexus-releases=
+hppc-0.7.1.pom>central=
+hppc-0.7.1.pom>sonatype-nexus-releases=
+hppc-0.7.1.jar>central=

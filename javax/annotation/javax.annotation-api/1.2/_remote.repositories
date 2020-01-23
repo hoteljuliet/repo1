@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:41:33 EST 2020
+javax.annotation-api-1.2.jar>central=
+javax.annotation-api-1.2.jar>sonatype-nexus-releases=
+javax.annotation-api-1.2.pom>central=
+javax.annotation-api-1.2.pom>sonatype-nexus-releases=

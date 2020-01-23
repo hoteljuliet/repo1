@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 12:31:51 EST 2020
+scala-parser-combinators_2.11-1.0.4.pom>sonatype-nexus-releases=
+scala-parser-combinators_2.11-1.0.4.jar>central=
+scala-parser-combinators_2.11-1.0.4.pom>central=
+scala-parser-combinators_2.11-1.0.4.jar>sonatype-nexus-releases=

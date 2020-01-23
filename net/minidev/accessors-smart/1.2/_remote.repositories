@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 12:38:00 EST 2020
+accessors-smart-1.2.jar>central=
+accessors-smart-1.2.pom>central=
+accessors-smart-1.2.pom>sonatype-nexus-releases=
+accessors-smart-1.2.jar>sonatype-nexus-releases=

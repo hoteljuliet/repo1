@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:37:21 EST 2020
+netty-3.7.0.Final.pom>sonatype-nexus-releases=
+netty-3.7.0.Final.pom>central=
+netty-3.7.0.Final.jar>sonatype-nexus-releases=

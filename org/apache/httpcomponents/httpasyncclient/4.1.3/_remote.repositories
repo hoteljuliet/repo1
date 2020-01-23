@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:39:35 EST 2020
+httpasyncclient-4.1.3.jar>central=
+httpasyncclient-4.1.3.jar>sonatype-nexus-releases=
+httpasyncclient-4.1.3.pom>central=
+httpasyncclient-4.1.3.pom>sonatype-nexus-releases=

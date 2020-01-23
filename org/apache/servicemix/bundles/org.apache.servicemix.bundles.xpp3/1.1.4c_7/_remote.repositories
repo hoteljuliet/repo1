@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 18 10:19:32 EST 2019
+org.apache.servicemix.bundles.xpp3-1.1.4c_7.jar>sonatype-nexus-releases=
+org.apache.servicemix.bundles.xpp3-1.1.4c_7.pom>sonatype-nexus-releases=

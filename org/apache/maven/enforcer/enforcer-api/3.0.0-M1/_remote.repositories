@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 11:31:35 EST 2020
+enforcer-api-3.0.0-M1.jar>central=
+enforcer-api-3.0.0-M1.pom>central=

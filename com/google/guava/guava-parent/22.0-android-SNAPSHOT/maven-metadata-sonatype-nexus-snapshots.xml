@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.google.guava</groupId>
+  <artifactId>guava-parent</artifactId>
+  <version>22.0-android-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170523.165416</timestamp>
+      <buildNumber>38</buildNumber>
+    </snapshot>
+    <lastUpdated>20170523165416</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>22.0-android-20170523.165416-38</value>
+        <updated>20170523165416</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

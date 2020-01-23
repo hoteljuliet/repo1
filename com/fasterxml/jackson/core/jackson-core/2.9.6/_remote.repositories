@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:27:07 EST 2020
+jackson-core-2.9.6.jar>central=
+jackson-core-2.9.6.pom>sonatype-nexus-releases=
+jackson-core-2.9.6.pom>central=

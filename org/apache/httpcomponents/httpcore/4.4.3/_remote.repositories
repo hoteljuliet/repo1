@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 12:39:49 EST 2020
+httpcore-4.4.3.jar>sonatype-nexus-releases=
+httpcore-4.4.3.jar>central=
+httpcore-4.4.3.pom>sonatype-nexus-releases=
+httpcore-4.4.3.pom>central=

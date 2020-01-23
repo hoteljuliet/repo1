@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:35:44 EST 2020
+kafka-clients-0.10.2.1.jar>central=
+kafka-clients-0.10.2.1.pom>central=

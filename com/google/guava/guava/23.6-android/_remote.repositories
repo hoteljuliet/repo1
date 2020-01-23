@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 18 10:22:01 EST 2019
+guava-23.6-android.pom>sonatype-nexus-releases=
+guava-23.6-android.jar>sonatype-nexus-releases=
+guava-23.6-android.pom>central=

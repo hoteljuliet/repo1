@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 18 10:19:33 EST 2019
+objenesis-1.2.jar>sonatype-nexus-releases=
+objenesis-1.2.pom>sonatype-nexus-releases=

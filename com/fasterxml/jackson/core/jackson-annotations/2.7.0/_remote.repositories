@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 12:36:55 EST 2020
+jackson-annotations-2.7.0.jar>central=
+jackson-annotations-2.7.0.pom>sonatype-nexus-releases=
+jackson-annotations-2.7.0.pom>central=

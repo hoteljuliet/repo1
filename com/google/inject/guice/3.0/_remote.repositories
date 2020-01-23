@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:35:28 EST 2020
+guice-3.0.jar>sonatype-nexus-releases=
+guice-3.0.jar>central=
+guice-3.0.pom>sonatype-nexus-releases=
+guice-3.0.pom>central=

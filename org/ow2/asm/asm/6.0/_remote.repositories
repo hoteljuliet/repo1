@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 18 10:21:31 EST 2019
+asm-6.0.pom>sonatype-nexus-releases=
+asm-6.0.pom>central=
+asm-6.0.jar>central=
+asm-6.0.jar>sonatype-nexus-releases=

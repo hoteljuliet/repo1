@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 11:43:10 EST 2020
+jackson-mapper-asl-1.8.8.pom>central=
+jackson-mapper-asl-1.8.8.jar>sonatype-nexus-releases=
+jackson-mapper-asl-1.8.8.pom>sonatype-nexus-releases=
+jackson-mapper-asl-1.8.8.jar>central=

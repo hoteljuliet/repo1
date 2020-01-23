@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 14:53:50 EST 2020
+hadoop-common-2.4.1.jar>central=
+hadoop-common-2.4.1.pom>central=
+hadoop-common-2.4.1-tests.jar>central=

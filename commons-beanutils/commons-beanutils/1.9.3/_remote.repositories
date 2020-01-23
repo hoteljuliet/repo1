@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 11:31:34 EST 2020
+commons-beanutils-1.9.3.jar>central=
+commons-beanutils-1.9.3.pom>sonatype-nexus-releases=
+commons-beanutils-1.9.3.pom>central=
+commons-beanutils-1.9.3.jar>sonatype-nexus-releases=
